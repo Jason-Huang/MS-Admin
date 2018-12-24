@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservices-admin" />
+        <module name="microservices-admin-base" />
+        <module name="microservices-admin-service-api" />
+        <module name="microservices-admin-service-entity" />
+        <module name="microservices-admin-service-provider" />
+        <module name="microservices-b2c" />
+        <module name="microservices-b2c-service-api" />
+        <module name="microservices-b2c-service-entity" />
+        <module name="microservices-b2c-service-provider" />
+        <module name="microservices-core" />
+        <module name="microservices-wechat" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservices-admin" target="1.8" />
+      <module name="microservices-admin-base" target="1.8" />
+      <module name="microservices-admin-parent" target="1.8" />
+      <module name="microservices-admin-service" target="1.8" />
+      <module name="microservices-admin-service-api" target="1.8" />
+      <module name="microservices-admin-service-entity" target="1.8" />
+      <module name="microservices-admin-service-provider" target="1.8" />
+      <module name="microservices-b2c" target="1.8" />
+      <module name="microservices-b2c-service" target="1.8" />
+      <module name="microservices-b2c-service-api" target="1.8" />
+      <module name="microservices-b2c-service-entity" target="1.8" />
+      <module name="microservices-b2c-service-provider" target="1.8" />
+      <module name="microservices-core" target="1.8" />
+      <module name="microservices-wechat" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

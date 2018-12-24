@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservices-admin/microservices-admin.iml" filepath="$PROJECT_DIR$/microservices-admin/microservices-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-admin-base/microservices-admin-base.iml" filepath="$PROJECT_DIR$/microservices-admin-base/microservices-admin-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-admin-parent.iml" filepath="$PROJECT_DIR$/microservices-admin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-admin-service/microservices-admin-service.iml" filepath="$PROJECT_DIR$/microservices-admin-service/microservices-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-admin-service/microservices-admin-service-api/microservices-admin-service-api.iml" filepath="$PROJECT_DIR$/microservices-admin-service/microservices-admin-service-api/microservices-admin-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-admin-service/microservices-admin-service-entity/microservices-admin-service-entity.iml" filepath="$PROJECT_DIR$/microservices-admin-service/microservices-admin-service-entity/microservices-admin-service-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-admin-service/microservices-admin-service-provider/microservices-admin-service-provider.iml" filepath="$PROJECT_DIR$/microservices-admin-service/microservices-admin-service-provider/microservices-admin-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-b2c/microservices-b2c.iml" filepath="$PROJECT_DIR$/microservices-b2c/microservices-b2c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-b2c-service/microservices-b2c-service.iml" filepath="$PROJECT_DIR$/microservices-b2c-service/microservices-b2c-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-b2c-service/microservices-b2c-service-api/microservices-b2c-service-api.iml" filepath="$PROJECT_DIR$/microservices-b2c-service/microservices-b2c-service-api/microservices-b2c-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-b2c-service/microservices-b2c-service-entity/microservices-b2c-service-entity.iml" filepath="$PROJECT_DIR$/microservices-b2c-service/microservices-b2c-service-entity/microservices-b2c-service-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-b2c-service/microservices-b2c-service-provider/microservices-b2c-service-provider.iml" filepath="$PROJECT_DIR$/microservices-b2c-service/microservices-b2c-service-provider/microservices-b2c-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-core/microservices-core.iml" filepath="$PROJECT_DIR$/microservices-core/microservices-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservices-wechat/microservices-wechat.iml" filepath="$PROJECT_DIR$/microservices-wechat/microservices-wechat.iml" />
+    </modules>
+  </component>
+</project>

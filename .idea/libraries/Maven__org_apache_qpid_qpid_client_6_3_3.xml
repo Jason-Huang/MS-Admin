@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.qpid:qpid-client:6.3.3">
+    <CLASSES>
+      <root url="jar://D:/.m/repositories/org/apache/qpid/qpid-client/6.3.3/qpid-client-6.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/.m/repositories/org/apache/qpid/qpid-client/6.3.3/qpid-client-6.3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/.m/repositories/org/apache/qpid/qpid-client/6.3.3/qpid-client-6.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
