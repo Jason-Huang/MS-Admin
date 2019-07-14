@@ -10,7 +10,7 @@ public class MicroservicesServiceGenerator {
 
 	public static void main(String[] args) {
 
-		Microservices.setBootArg("microservices.datasource.url", "jdbc:mysql://127.0.0.1:3306/microservicesdemo");
+		Microservices.setBootArg("microservices.datasource.url", "jdbc:mysql://192.168.56.102:3306/microservicesdemo");
 		Microservices.setBootArg("microservices.datasource.user", "root");
 
 		String basePackage = "com.microservices.codegen.service.test";

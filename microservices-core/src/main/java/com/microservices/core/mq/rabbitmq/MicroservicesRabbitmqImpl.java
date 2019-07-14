@@ -28,7 +28,7 @@ public class MicroservicesRabbitmqImpl extends MicroservicesmqBase implements Mi
 	private static final Log LOG = Log.getLog(MicroservicesRabbitmqImpl.class);
 	private Connection connection;
 	private Map<String, Channel> channelMap = Maps.newConcurrentMap();
-
+		
 	public MicroservicesRabbitmqImpl() {
 		super();
 
